@@ -1,3 +1,4 @@
+# phpspider -- 感谢原作者owner888/phpspider，略有修改。
 # phpspider -- PHP蜘蛛爬虫框架
 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序  
 
